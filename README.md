@@ -17,3 +17,15 @@ JIRA是Atlassian公司出品的项目与事务跟踪工具
 
 ## Teambition
 Teambition 是阿里巴巴旗下工作学习套件，包含 网盘、待办、文档、日历、项目 等丰富应用
+
+## MySQL
+[MySQL](https://www.mysql.com/)是一个关系型数据库管理系统，由瑞典MySQL AB 公司开发，属于 Oracle 旗下产品。MySQL 是最流行的关系型数据库管理系统之一
+
+### 安装
+
+### Python 操作 MySQL 数据库
+
+#### 什么是MySQLdb
+MySQLdb 是用于Python链接Mysql数据库的接口，它实现了 Python 数据库 API 规范 V2.0，基于 MySQL C API 上建立的
+
+#### MySQLdb 安装
