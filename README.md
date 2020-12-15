@@ -3,7 +3,7 @@
 
 ## Git
 Git 是用于 Linux内核开发的版本控制工具
-### Sourcetree(https://www.sourcetreeapp.com/)
+### [Sourcetree](https://www.sourcetreeapp.com/)
 
 ## Gitlab
 GitLab是由GitLabInc.开发，使用MIT许可证的基于网络的Git仓库管理工具，且具有wiki和issue跟踪功能。使用Git作为代码管理工具，并在此基础上搭建起来的web服务
