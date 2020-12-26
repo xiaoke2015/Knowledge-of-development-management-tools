@@ -229,6 +229,28 @@ HEAD 说明：
 
 会放弃合并，回到rebase操作之前的状态，之前的提交的不会丢弃；
 
+## git rebase -i
+
+命令可以压缩合并多次提交
+
+`git rebase -i [commitHash]` 
+
+合并最近两次提交
+
+![](https://i.postimg.cc/7Zq17TPj/WX20201226-171357-2x.png)
+
+输入 git rebase -i HEAD~2 命令后, 会弹出如下的编辑器
+
+![](https://i.postimg.cc/pd5ddR5y/WX20201226-171839-2x.png)
+
+将第二行的 pick 改为 s “s” 为 “squash” 的缩写 “squash” 的意思是 将倒数第二次提交 压缩为最后一次提交。然后保存，然后会弹出如下的编辑器
+
+![](https://i.postimg.cc/8PykBjhj/WX20201226-171858-2x.png)
+
+将下面的内容改成你想提交的概述即可，保存退出
+
+![](https://i.postimg.cc/PxkdrZkF/WX20201226-171954-2x.png)
+
 ## git cherry-pick 
 
 就是将指定的提交（commit）应用于其他分支。
