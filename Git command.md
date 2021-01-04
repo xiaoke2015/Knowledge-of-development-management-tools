@@ -225,6 +225,14 @@ HEAD 说明：
 
 `git rebase [newbase]`
 
+git rebase解决合并冲突
+
+修改冲突
+
+git add .
+
+git rebase --continue
+
 ## git rebase --abort 
 
 会放弃合并，回到rebase操作之前的状态，之前的提交的不会丢弃；
