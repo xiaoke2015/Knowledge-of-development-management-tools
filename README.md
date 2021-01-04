@@ -29,3 +29,6 @@ Teambition 是阿里巴巴旗下工作学习套件，包含 网盘、待办、�
 MySQLdb 是用于Python链接Mysql数据库的接口，它实现了 Python 数据库 API 规范 V2.0，基于 MySQL C API 上建立的
 
 #### MySQLdb 安装
+
+# 管理知识
+KPI(Key Performance Indicator)和 OKR(Objectives and Key Results)
