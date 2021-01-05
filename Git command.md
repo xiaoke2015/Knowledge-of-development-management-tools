@@ -300,6 +300,6 @@ stash命令可用于临时保存和回复修改，可跨分支
 
 # 脚本
 
-![](https://postimg.cc/t1y0Py2g)
+[![WX20210105-154404-2x.png](https://i.postimg.cc/JhHRfzXj/WX20210105-154404-2x.png)](https://postimg.cc/t1y0Py2g)
 
 
