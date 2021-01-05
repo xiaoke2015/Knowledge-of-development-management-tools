@@ -298,5 +298,8 @@ stash命令可用于临时保存和回复修改，可跨分支
 
 
 
+# 脚本
+
+![](https://postimg.cc/t1y0Py2g)
 
 
