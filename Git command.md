@@ -293,8 +293,14 @@ stash命令可用于临时保存和回复修改，可跨分支
 
 `git stash clear`
 
+## 恢复删除的commit 进入工程下的.git文件下，git reflog命令
+查询到 commitid 
+
+`git branch recover_branch_name 5b7cf2c(哈希码)`
 
 # .gitignore
+
+
 
 
 
