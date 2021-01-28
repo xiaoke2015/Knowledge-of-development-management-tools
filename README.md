@@ -8,60 +8,20 @@
 
 ## 相关技术
 
-* [Homebrew](https://brew.sh)
-* [ohmyz](https://ohmyz.sh)
-* [Cocoapods](https://cocoapods.org)
-* [Git](https://git-scm.com)
+* [homebrew](./blog/homebrew.md)
+* [ohmyz](./blog/ohmyz.md)
+* [Cocoapods](./blog/cocoapods.md)
+* [Git](./blog/Git.md)
+* [UniversalLink](./blog/universalLink.md)
+
+
+
+
+## 相关软件
+
+
 * [Sourcetree](https://www.sourcetreeapp.com)
 * [MySQL](https://www.mysql.com)
-
-## Homebrew 
-
-1. 安装
-
-    vpn 正常安装
-
-    `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
-
-    国内安装
-
-    `/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"`
-
-2. 使用
-
-   
-    `brew install wget`
-
-## ohmyz 
-
-1. 安装
-
-    vpn 正常安装
-
-    `/bin/zsh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-
-
-## Cocoapods
-
-1. 安装
-
-    gem 安装
-
-    `sudo gem install cocoapods`
-
-    homebrew 安装
-
-    `brew reinstall cocoapods`
-
-    `brew link --overwrite cocoapods`
-
-
-## ohmyz
-
-1. 安装
-
-    `$ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-   
 
 
 
